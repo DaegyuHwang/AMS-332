@@ -6,7 +6,7 @@ I built the Hodgkin-Huxley model & Leaky Integrate-and-Fire(LIF) neuron model. I
 ### #Used Computational model
 
 #Hodgkin-Huxley model:
-![image](https://github.com/user-attachments/assets/8e9474bf-f1fd-4de9-94dc-10e0ada3b23b)
+![image](https://github.com/user-attachments/assets/5281d497-e4fb-4f5b-a5b2-2914a740de8a)
 
 #Leaky Integrate-and-Fire neuron model:
 ![image](https://github.com/user-attachments/assets/f49fc502-0f4f-4aa4-9153-f1272a611f2a)
