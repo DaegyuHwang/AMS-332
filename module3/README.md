@@ -10,7 +10,7 @@ In Project 1, we implemented a ODE-based model for a simple autoregulatory gene;
 
 ![image](https://github.com/user-attachments/assets/16f0ab63-6ec5-4a14-a0f7-43d01e52a242)
 
-<A diffusing pair of mutually-inhibiting genes>
+#A diffusing pair of mutually-inhibiting genes
 
 In Project 2, we implemented an ODE-based model of the cro/cI pair of mutually inhibitory genes. Here will consider a simplifed version of that system with symmetric parameters, in a reaction-diffusion model:
 
