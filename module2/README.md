@@ -11,7 +11,7 @@ I developed a model for cell-fate decisions regarding lysis and lysogeny in bact
 
 Determinstic model of the cro cI genetic network:
 
-![image](https://github.com/user-attachments/assets/012aa44d-8d0b-43dc-8bde-fae5f4034d73)
+![image](https://github.com/user-attachments/assets/be249935-5326-4d8b-b55e-a2fdf8d53d71)
 
 
 Stochastic model of the cro cI genetic network:
