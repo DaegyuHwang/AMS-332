@@ -6,7 +6,7 @@ I built an autoregulatory gene model about gene expression and regulation in the
 
 Simulation analyses using a variety of initial values ​​provided insight into the general dynamics of the time-dependent concentrations of interacting proteins and mRNAs and the existence and significance of equilibrium points in the phase plane.  
 
-### #Used Mathematical model
+### #Used Computational model
 ![image](https://github.com/user-attachments/assets/30fa46c7-5f73-4738-8f09-cc138ddbe0d5)
 
 
