@@ -1,4 +1,4 @@
-## These are five projects that I had done while studying computational modeling of physiological systems in 2024 spring
+## These are five projects that I had worked while studying computational modeling of physiological systems in 2024 spring
 
 #### Module 1-3: Computational Modeling of Cell Physiology
 ### Module 1: Hill equation and autoregulatory gene.
