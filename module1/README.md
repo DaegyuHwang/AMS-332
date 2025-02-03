@@ -7,6 +7,5 @@ Purpose: Running mathematical models for the population dynamics of Yeast and Ci
 
 
 ### #Used Mathematical model
-![image](https://github.com/user-attachments/assets/3ff6023b-c890-40e3-8b26-75bc661833c5)
-![image](https://github.com/user-attachments/assets/5bc53eb0-6759-43bd-a572-be6f86b4a0b4)
-
+![image](https://github.com/user-attachments/assets/30fa46c7-5f73-4738-8f09-cc138ddbe0d5)
+![image](https://github.com/user-attachments/assets/f4ad98b1-643e-4fe1-9466-48e2388609b3)
