@@ -16,6 +16,6 @@ Determinstic model of the cro cI genetic network:
 
 Stochastic model of the cro cI genetic network:
 
-![image](https://github.com/user-attachments/assets/00462655-f77f-47ac-879f-a1b6d6100565)
+![image](https://github.com/user-attachments/assets/35e619ea-c4a3-4538-8b19-6480ffdfb420)
 
 
