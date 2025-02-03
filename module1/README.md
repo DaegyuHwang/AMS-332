@@ -1,4 +1,4 @@
-### #Hill equation and autoregulatory gene.
+### #Hill equation and autoregulatory gene
 
 This directory contains project guidlines and MATLAB code that simulates the Hill equation and an autoregulatory gene, as well as a PDF file containing the results.
 
