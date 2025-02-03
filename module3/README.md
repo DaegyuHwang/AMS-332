@@ -1,6 +1,6 @@
 ### #A diffusing autoregulatory gene & A diffusing pair of mutually inhibiting genes.
 
-I made models for a diffusing pair of mutually inhibiting genes & A diffusing pair of mutually inhibiting genes considering Fick’s law of diffusion. To obtain meaningful results, mathematical models must be consistent with biological knowledge. Biological systems have spatial structures and most are mostly spatially heterogeneous. Since this affects the flux, flow rate, and concentration change rate for each spatial structure, I created a model that explains these aforementioned biological facts by introducing a Reaction-Diffusion model where concentrations vary in space and time using partial differential equations. 
+I constructed models for a diffusing pair of mutually inhibiting genes & A diffusing pair of mutually inhibiting genes considering Fick’s law of diffusion. To obtain meaningful results, mathematical models must be consistent with biological knowledge. Biological systems have spatial structures and most are mostly spatially heterogeneous. Since this affects the flux, flow rate, and concentration change rate for each spatial structure, I created a model that explains these aforementioned biological facts by introducing a Reaction-Diffusion model where concentrations vary in space and time using partial differential equations. 
 
 
 ### #Used Computational model
